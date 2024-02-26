@@ -1,0 +1,28 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ô”µòıÿÿÿÿ8Ø“Ô«Ş1
+Q
+java:S3740)"/Provide the parametrized type for this generic.(¤µÀƒúÿÿÿÿ8Ø“Ô«Ş1
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©À¯™ùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¸ä ùÿÿÿÿ8¼ÒÙ«Ş1
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(»±ôé8¾ÒÙ«Ş1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç”ÇÃ8Ü“Ô«Ş1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çÿÈÕ8İ“Ô«Ş1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ç”ÇÃ8à“Ô«Ş1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(çÿÈÕ8ã“Ô«Ş1
+C
+java:S2201"'The return value of "get" must be used.(¬¿œ\8Ù£Ø«Ş1
+I
+java:S2201"'The return value of "get" must be used.(ÔÓúÛøÿÿÿÿ8Ù£Ø«Ş1
+I
+java:S2201,"'The return value of "get" must be used.(Ù†´¿úÿÿÿÿ8Ü£Ø«Ş1
+D
+java:S2201-"'The return value of "get" must be used.(ŠıÚÄ8İ£Ø«Ş1
+D
+java:S2201."'The return value of "get" must be used.(Â¸ÿ8İ£Ø«Ş1
